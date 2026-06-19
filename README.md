@@ -19,8 +19,8 @@ I enjoy designing mechanical systems, understanding how complex machines work, a
 
 | CAD & Design | Simulation & Analysis | Programming |
 | ------------ | --------------------- | ----------- |
-| SolidWorks   | ANSYS                 | MATLAB / Simulink      |
-| Fusion 360  |                   | Python    |
+| SolidWorks   | ANSYS                 | MATLAB      |
+| Fusion 360  | Simulink               | Python    |
 | Autocad |
 
 ---
