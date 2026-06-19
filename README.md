@@ -16,40 +16,22 @@ I enjoy designing mechanical systems, understanding how complex machines work, a
 
 ## Technical Skills
 
-### CAD & Design
 
-* SolidWorks
-* Fusion 360
-* AutoCAD
-
-### Simulation & Analysis
-
-* ANSYS
-* Finite Element Analysis (FEA)
-
-### Programming & Modeling
-
-* MATLAB / Simulink
-* Python
+| CAD & Design | Simulation & Analysis | Programming |
+| ------------ | --------------------- | ----------- |
+| SolidWorks   | ANSYS                 | MATLAB / Simulink      |
+| Fusion 360  |                   | Python    |
+| Autocad |
 
 ---
 
-## Areas of Interest
+## 🎯 Areas of Interest
 
-* Mechanical Design
-* Product Development
-* Machine Design
-* Engineering Simulation
-
----
-
-## Current Focus
-
-* Advanced CAD Modeling
-* Mechanical System Design
-* Engineering Analysis
-* Design Optimization
-* Product Development
+- Mechanical Design
+- Product Development
+- CAD Modeling
+- Engineering Simulation
+- Machine Design
 
 ---
 
