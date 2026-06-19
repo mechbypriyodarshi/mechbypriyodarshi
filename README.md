@@ -29,8 +29,8 @@ I enjoy designing mechanical systems, understanding how complex machines work, a
 
 ### Programming & Modeling
 
-* MATLAB
-* Simulink
+* MATLAB / Simulink
+* Python
 
 ---
 
@@ -40,7 +40,6 @@ I enjoy designing mechanical systems, understanding how complex machines work, a
 * Product Development
 * Machine Design
 * Engineering Simulation
-* Manufacturing Engineering
 
 ---
 
