@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Priyodarshi Saha 👋
 
-<!--
-**mechbypriyodarshi/mechbypriyodarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering Undergraduate @ NIT Durgapur
 
-Here are some ideas to get you started:
+Aspiring Mechanical Design Engineer passionate about engineering design, product development, and simulation-driven problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a Mechanical Engineering student with a strong interest in Mechanical Design, CAD Modeling, Engineering Analysis, and Product Development.
+
+I enjoy designing mechanical systems, understanding how complex machines work, and transforming engineering concepts into practical solutions.
+
+---
+
+## Technical Skills
+
+### CAD & Design
+
+* SolidWorks
+* Fusion 360
+* AutoCAD
+
+### Simulation & Analysis
+
+* ANSYS
+* Finite Element Analysis (FEA)
+
+### Programming & Modeling
+
+* MATLAB
+* Simulink
+
+---
+
+## Areas of Interest
+
+* Mechanical Design
+* Product Development
+* Machine Design
+* Engineering Simulation
+* Manufacturing Engineering
+
+---
+
+## Current Focus
+
+* Advanced CAD Modeling
+* Mechanical System Design
+* Engineering Analysis
+* Design Optimization
+* Product Development
+
+---
+
+## Connect With Me
+
+* LinkedIn: www.linkedin.com/in/
+priyodarshi-saha-2a305125b
+
+* Email: sahapriyodarshi@gmail.com
+
+---
+
+*"Transforming ideas into engineered solutions."*
